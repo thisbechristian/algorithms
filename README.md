@@ -1,2 +1,2 @@
-# algorithms
-CS1501 Projects
+# Algorithms Implementation
+CS 1501 Projects
