@@ -1,0 +1,21 @@
+9
+Pittsburgh
+Erie
+Altoona
+Johnstown
+Harrisburg
+Philadelphia
+Scranton
+Reading
+Allentown
+1 2 127.0 200.0
+1 4 66.0 125.0
+1 5 205.0 125.0
+1 6 306.0 550.0
+3 4 43.0 150.0
+3 5 134.0 225.0
+5 6 105.0 175.0
+5 8 59.0 200.0
+6 7 125.0 275.0
+6 9 62.0 150.0
+8 9 35.0 175.0
